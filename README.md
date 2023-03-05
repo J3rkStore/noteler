@@ -19,11 +19,14 @@ Application for storing notes
 - [Questions](#questions)
 
 ## Installation
-"npm i" from the directory root will install required node modules and then call the program with "node server.js"
+"npm i" from the directory root will install required node modules and then call the program with "node server.js".  Instead of downloading the repo, the app is deployed on Heroku at https://noteler.herokuapp.com/
 
 
 ## Usage
-Instead of downloading the repo, the app is deployed on Heroku at https://noteler.herokuapp.com/
+Type in a note title and a note, then click save.
+
+![screenshot](https://user-images.githubusercontent.com/59859758/222938590-e1ef0efa-25e4-4abe-89ae-af09287c8599.png)
+
 
 
 ## License

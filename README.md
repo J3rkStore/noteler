@@ -7,6 +7,8 @@
 ## Description
 Application for storing notes
 
+![image](https://github.com/J3rkStore/noteler/assets/59859758/d53a0729-cc07-445f-9980-71dbc5d44045)
+
 
 ## Table of Contents 
 
